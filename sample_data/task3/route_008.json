@@ -1,0 +1,36 @@
+{
+    "smiles": "CC(C)(Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1)C(=O)O",
+    "name": "0",
+    "children": [
+        {
+            "smiles": "C=C(c1ccc(Cl)cc1)c1ccc(OC(C)(C)C(=O)O)cc1",
+            "name": "1",
+            "children": [
+                {
+                    "smiles": "C=C(c1ccc(O)cc1)c1ccc(Cl)cc1",
+                    "name": "2",
+                    "children": [
+                        {
+                            "smiles": "CC(O)(c1ccc(O)cc1)c1ccc(Cl)cc1",
+                            "name": "4",
+                            "children": [
+                                {
+                                    "smiles": "CC(O)c1ccc(O)cc1",
+                                    "name": "5"
+                                },
+                                {
+                                    "smiles": "Clc1ccc(I)cc1",
+                                    "name": "6"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "smiles": "CC(C)(Cl)C(=O)O",
+                    "name": "3"
+                }
+            ]
+        }
+    ]
+}

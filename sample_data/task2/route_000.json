@@ -1,0 +1,14 @@
+{
+    "smiles": "O=C(O)Cc1ccc(OCc2ccccc2C(=O)O)cc1",
+    "name": "0",
+    "children": [
+        {
+            "smiles": "O=C(O)Cc1ccc(O)cc1",
+            "name": "1"
+        },
+        {
+            "smiles": "O=C(O)c1ccccc1CO",
+            "name": "2"
+        }
+    ]
+}
